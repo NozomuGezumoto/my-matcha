@@ -1,0 +1,10 @@
+name: sushi-osm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - osmium-tool
+  - pip
+  - pip:
+    - -r requirements.txt

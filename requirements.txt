@@ -1,0 +1,3 @@
+# Python dependencies for sushi extraction
+osmium>=3.7.0
+shapely>=2.0.0
