@@ -15,7 +15,11 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mymacha.app"
+      "bundleIdentifier": "com.mymacha.app",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "地図を表示するために必要です。",
+        "NSPhotoLibraryUsageDescription": "写真を選択・共有するためにフォトライブラリへのアクセスが必要です。"
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -34,7 +38,15 @@
       "output": "static",
       "favicon": "./assets/matcha-icon.png"
     },
-    "plugins": ["expo-router"],
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "写真を選択・共有するためにフォトライブラリへのアクセスが必要です。"
+        }
+      ]
+    ],
     "experiments": {
       "typedRoutes": true
     }
