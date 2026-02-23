@@ -1,10 +1,10 @@
 import { View, StyleSheet } from 'react-native';
-import SushiMap from '../../src/components/SushiMap';
+import MatchaMap from '../../src/components/MatchaMap';
 
 export default function MapScreen() {
   return (
     <View style={styles.container}>
-      <SushiMap />
+      <MatchaMap />
     </View>
   );
 }

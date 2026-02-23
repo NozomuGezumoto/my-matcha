@@ -1,0 +1,2950 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89,
+          43.8
+        ]
+      },
+      "properties": {
+        "id": "b-1",
+        "name": "オホーツクビール",
+        "name_reading": "おほーつくびーる",
+        "prefecture": "北海道",
+        "address": "北海道北見市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.73,
+          41.77
+        ]
+      },
+      "properties": {
+        "id": "b-2",
+        "name": "はこだてビール",
+        "name_reading": "はこだてびーる",
+        "prefecture": "北海道",
+        "address": "北海道函館市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.36,
+          43.77
+        ]
+      },
+      "properties": {
+        "id": "b-3",
+        "name": "大雪地ビール",
+        "name_reading": "たいせつじびーる",
+        "prefecture": "北海道",
+        "address": "北海道旭川市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.11,
+          42.41
+        ]
+      },
+      "properties": {
+        "id": "b-4",
+        "name": "プレミアムビール鬼伝説",
+        "name_reading": "おにでんせつ",
+        "prefecture": "北海道",
+        "address": "北海道登別市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141,
+          43.19
+        ]
+      },
+      "properties": {
+        "id": "b-5",
+        "name": "小樽麦酒",
+        "name_reading": "おたるむぎびーる",
+        "prefecture": "北海道",
+        "address": "北海道小樽市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "小樽の赤レンガ倉庫で醸造。ドイツ式ラガーが中心で、ビアホールも人気。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28,
+          44.02
+        ]
+      },
+      "properties": {
+        "id": "b-6",
+        "name": "網走ビール",
+        "name_reading": "あばしりびーる",
+        "prefecture": "北海道",
+        "address": "北海道網走市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.35,
+          43.06
+        ]
+      },
+      "properties": {
+        "id": "b-7",
+        "name": "トランスブリューイング",
+        "name_reading": "とらんすぶりゅーいんぐ",
+        "prefecture": "北海道",
+        "address": "北海道札幌市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.74,
+          41.82
+        ]
+      },
+      "properties": {
+        "id": "b-8",
+        "name": "ノースアイランドブルワリー",
+        "name_reading": "のーすあいらんど",
+        "prefecture": "北海道",
+        "address": "北海道函館市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.68,
+          41.98
+        ]
+      },
+      "properties": {
+        "id": "b-9",
+        "name": "大沼ビール",
+        "name_reading": "おおぬまびーる",
+        "prefecture": "北海道",
+        "address": "北海道七飯町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.76,
+          42.9
+        ]
+      },
+      "properties": {
+        "id": "b-9b",
+        "name": "羊蹄山麓ビール",
+        "name_reading": "ようていさんろくびーる",
+        "prefecture": "北海道",
+        "address": "北海道倶知安町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.69,
+          42.88
+        ]
+      },
+      "properties": {
+        "id": "b-9c",
+        "name": "ニセコビール",
+        "name_reading": "にせこびーる",
+        "prefecture": "北海道",
+        "address": "北海道ニセコ町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47,
+          43.45
+        ]
+      },
+      "properties": {
+        "id": "b-9d",
+        "name": "忽布古丹醸造",
+        "name_reading": "こほこたんじょうぞう",
+        "prefecture": "北海道",
+        "address": "北海道上富良野町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.37,
+          43.07
+        ]
+      },
+      "properties": {
+        "id": "b-9e",
+        "name": "サッポロビール園",
+        "name_reading": "さっぽろびーるえん",
+        "prefecture": "北海道",
+        "address": "北海道札幌市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.05,
+          40.62
+        ]
+      },
+      "properties": {
+        "id": "b-10",
+        "name": "奥入瀬ビール",
+        "name_reading": "おいらせびーる",
+        "prefecture": "青森県",
+        "address": "青森県十和田市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.49,
+          40.51
+        ]
+      },
+      "properties": {
+        "id": "b-11",
+        "name": "八戸麦酒",
+        "name_reading": "はちのへむぎびーる",
+        "prefecture": "青森県",
+        "address": "青森県八戸市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13,
+          38.93
+        ]
+      },
+      "properties": {
+        "id": "b-12",
+        "name": "いわて蔵ビール",
+        "name_reading": "いわてくらびーる",
+        "prefecture": "岩手県",
+        "address": "岩手県一関市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15,
+          39.7
+        ]
+      },
+      "properties": {
+        "id": "b-12b",
+        "name": "ベアレン醸造所",
+        "name_reading": "べあれんじょうぞうしょ",
+        "prefecture": "岩手県",
+        "address": "岩手県盛岡市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.73,
+          38.73
+        ]
+      },
+      "properties": {
+        "id": "b-13",
+        "name": "鳴子の風",
+        "name_reading": "なるこのかぜ",
+        "prefecture": "宮城県",
+        "address": "宮城県大崎市鳴子温泉",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87,
+          38.27
+        ]
+      },
+      "properties": {
+        "id": "b-13b",
+        "name": "仙台クラフト",
+        "name_reading": "せんだいくらふと",
+        "prefecture": "宮城県",
+        "address": "宮城県仙台市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.73,
+          39.7
+        ]
+      },
+      "properties": {
+        "id": "b-14",
+        "name": "田沢湖ビール",
+        "name_reading": "たざわこびーる",
+        "prefecture": "秋田県",
+        "address": "秋田県仙北市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12,
+          38.53
+        ]
+      },
+      "properties": {
+        "id": "b-15",
+        "name": "地ビール月山",
+        "name_reading": "じびーるがっさん",
+        "prefecture": "山形県",
+        "address": "山形県西川町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47,
+          37.75
+        ]
+      },
+      "properties": {
+        "id": "b-16",
+        "name": "みちのく福島路ビール",
+        "name_reading": "みちのくふくしまじ",
+        "prefecture": "福島県",
+        "address": "福島県福島市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12,
+          37.55
+        ]
+      },
+      "properties": {
+        "id": "b-17",
+        "name": "猪苗代地ビール",
+        "name_reading": "いなわしろじびーる",
+        "prefecture": "福島県",
+        "address": "福島県猪苗代町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47,
+          36.37
+        ]
+      },
+      "properties": {
+        "id": "b-20",
+        "name": "常陸野ネストビール",
+        "name_reading": "ひたちのねすと",
+        "prefecture": "茨城県",
+        "address": "茨城県那珂市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "日本を代表するクラフトビール。白ビール（ヴァイツェン）が特に人気。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14,
+          35.97
+        ]
+      },
+      "properties": {
+        "id": "b-21",
+        "name": "牛久シャトービール",
+        "name_reading": "うしくしゃとー",
+        "prefecture": "茨城県",
+        "address": "茨城県牛久市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "ワイン醸造所が手がけるビール。シャトー牛久の敷地内で醸造・提供。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12,
+          37.12
+        ]
+      },
+      "properties": {
+        "id": "b-22",
+        "name": "那須高原ビール",
+        "name_reading": "なすこうげんびーる",
+        "prefecture": "栃木県",
+        "address": "栃木県那須町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.88,
+          36.55
+        ]
+      },
+      "properties": {
+        "id": "b-23",
+        "name": "宇都宮クラフトビール",
+        "name_reading": "うつのみやくらふと",
+        "prefecture": "栃木県",
+        "address": "栃木県宇都宮市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.88,
+          36.38
+        ]
+      },
+      "properties": {
+        "id": "b-24",
+        "name": "うしとらビール",
+        "name_reading": "うしとらびーる",
+        "prefecture": "栃木県",
+        "address": "栃木県下野市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.05,
+          37.12
+        ]
+      },
+      "properties": {
+        "id": "b-24b",
+        "name": "那須ビール",
+        "name_reading": "なすびーる",
+        "prefecture": "栃木県",
+        "address": "栃木県那須塩原市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52,
+          35.83
+        ]
+      },
+      "properties": {
+        "id": "b-25",
+        "name": "COEDOビール",
+        "name_reading": "コエド",
+        "prefecture": "埼玉県",
+        "address": "埼玉県三芳町",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "埼玉発のクラフトビール。ガラナや黒豆などユニークな原料を使った銘柄も。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.06,
+          36.39
+        ]
+      },
+      "properties": {
+        "id": "b-25b",
+        "name": "群馬県地ビール",
+        "name_reading": "ぐんまけんじびーる",
+        "prefecture": "群馬県",
+        "address": "群馬県前橋市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.04,
+          37.92
+        ]
+      },
+      "properties": {
+        "id": "b-26",
+        "name": "エチゴビール",
+        "name_reading": "えちごびーる",
+        "prefecture": "新潟県",
+        "address": "新潟県新潟市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.24,
+          37.83
+        ]
+      },
+      "properties": {
+        "id": "b-27",
+        "name": "スワンレイクビール",
+        "name_reading": "すわんれいく",
+        "prefecture": "新潟県",
+        "address": "新潟県阿賀野市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9,
+          37
+        ]
+      },
+      "properties": {
+        "id": "b-28",
+        "name": "八海山泉ビール",
+        "name_reading": "はっかいさんいずみ",
+        "prefecture": "新潟県",
+        "address": "新潟県南魚沼市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.41,
+          38.06
+        ]
+      },
+      "properties": {
+        "id": "b-29",
+        "name": "胎内高原ビール",
+        "name_reading": "たいないこうげん",
+        "prefecture": "新潟県",
+        "address": "新潟県胎内市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.88,
+          37.02
+        ]
+      },
+      "properties": {
+        "id": "b-30",
+        "name": "ゴールデンスランバー",
+        "name_reading": "ごーるでんすらんばー",
+        "prefecture": "新潟県",
+        "address": "新潟県南魚沼市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.36,
+          36.35
+        ]
+      },
+      "properties": {
+        "id": "b-31",
+        "name": "オラホビール",
+        "name_reading": "おらほびーる",
+        "prefecture": "長野県",
+        "address": "長野県東御市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.12,
+          36.04
+        ]
+      },
+      "properties": {
+        "id": "b-32",
+        "name": "諏訪浪漫ビール",
+        "name_reading": "すわろまんびーる",
+        "prefecture": "長野県",
+        "address": "長野県諏訪市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9,
+          36.35
+        ]
+      },
+      "properties": {
+        "id": "b-33",
+        "name": "穂高ビール",
+        "name_reading": "ほたかびーる",
+        "prefecture": "長野県",
+        "address": "長野県安曇野市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.49,
+          36.27
+        ]
+      },
+      "properties": {
+        "id": "b-34",
+        "name": "軽井沢浅間高原ビール",
+        "name_reading": "かるいざわあさま",
+        "prefecture": "長野県",
+        "address": "長野県佐久市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.45,
+          36.72
+        ]
+      },
+      "properties": {
+        "id": "b-35",
+        "name": "志賀高原ビール",
+        "name_reading": "しがこうげんびーる",
+        "prefecture": "長野県",
+        "address": "長野県山ノ内町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.93,
+          35.73
+        ]
+      },
+      "properties": {
+        "id": "b-36",
+        "name": "南信州ビール",
+        "name_reading": "みなみしんしゅう",
+        "prefecture": "長野県",
+        "address": "長野県駒ヶ根市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.97,
+          36.24
+        ]
+      },
+      "properties": {
+        "id": "b-37",
+        "name": "松本ブルワリー",
+        "name_reading": "まつもとぶるわりー",
+        "prefecture": "長野県",
+        "address": "長野県松本市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.25,
+          36.4
+        ]
+      },
+      "properties": {
+        "id": "b-38",
+        "name": "ヨ・ホー Brewing",
+        "name_reading": "よーほー",
+        "prefecture": "長野県",
+        "address": "長野県上田市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.85,
+          36.5
+        ]
+      },
+      "properties": {
+        "id": "b-38b",
+        "name": "北アルプスビール",
+        "name_reading": "きたあるぷすびーる",
+        "prefecture": "長野県",
+        "address": "長野県大町市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.88,
+          36.3
+        ]
+      },
+      "properties": {
+        "id": "b-38c",
+        "name": "安曇野ビール",
+        "name_reading": "あづみのびーる",
+        "prefecture": "長野県",
+        "address": "長野県安曇野市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.41,
+          35.62
+        ]
+      },
+      "properties": {
+        "id": "b-40",
+        "name": "九十九里オーシャンビール",
+        "name_reading": "くじゅうくりおーしゃん",
+        "prefecture": "千葉県",
+        "address": "千葉県山武市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.89,
+          35.63
+        ]
+      },
+      "properties": {
+        "id": "b-41",
+        "name": "ハーヴェスト・ムーン",
+        "name_reading": "はーべすとむーん",
+        "prefecture": "千葉県",
+        "address": "千葉県浦安市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.33,
+          35.74
+        ]
+      },
+      "properties": {
+        "id": "b-42",
+        "name": "多摩の恵",
+        "name_reading": "たまのめぐみ",
+        "prefecture": "東京都",
+        "address": "東京都福生市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75,
+          35.61
+        ]
+      },
+      "properties": {
+        "id": "b-43",
+        "name": "ティーワイハーバーブルワリー",
+        "name_reading": "てぃーわいはーばー",
+        "prefecture": "東京都",
+        "address": "東京都品川区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7,
+          35.71
+        ]
+      },
+      "properties": {
+        "id": "b-44",
+        "name": "高田馬場ビール工房",
+        "name_reading": "たかだのばば",
+        "prefecture": "東京都",
+        "address": "東京都新宿区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68,
+          35.66
+        ]
+      },
+      "properties": {
+        "id": "b-45",
+        "name": "暁ブリュワリー",
+        "name_reading": "あかつきぶりゅわりー",
+        "prefecture": "東京都",
+        "address": "東京都渋谷区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58,
+          35.64
+        ]
+      },
+      "properties": {
+        "id": "b-46",
+        "name": "和泉ブルワリー",
+        "name_reading": "いずみぶるわりー",
+        "prefecture": "東京都",
+        "address": "東京都狛江市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7,
+          35.66
+        ]
+      },
+      "properties": {
+        "id": "b-47",
+        "name": "Far Yeast Brewing",
+        "name_reading": "ふぁーいーすと",
+        "prefecture": "東京都",
+        "address": "東京都渋谷区",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68,
+          35.75
+        ]
+      },
+      "properties": {
+        "id": "b-48",
+        "name": "TOKYO ALEWORKS",
+        "name_reading": "とうきょうえーるわーくす",
+        "prefecture": "東京都",
+        "address": "東京都板橋区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7,
+          35.66
+        ]
+      },
+      "properties": {
+        "id": "b-49",
+        "name": "スプリングバレー醸造",
+        "name_reading": "すぷりんぐばれー",
+        "prefecture": "東京都",
+        "address": "東京都渋谷区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72,
+          35.64
+        ]
+      },
+      "properties": {
+        "id": "b-50",
+        "name": "ヤナヤナビール",
+        "name_reading": "やなやな",
+        "prefecture": "東京都",
+        "address": "東京都目黒区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.34,
+          35.66
+        ]
+      },
+      "properties": {
+        "id": "b-50b",
+        "name": "TAKAO BEER",
+        "name_reading": "たかおびーる",
+        "prefecture": "東京都",
+        "address": "東京都八王子市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75,
+          35.66
+        ]
+      },
+      "properties": {
+        "id": "b-50c",
+        "name": "デビルクラフト",
+        "name_reading": "でびるくらふと",
+        "prefecture": "東京都",
+        "address": "東京都港区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7,
+          35.66
+        ]
+      },
+      "properties": {
+        "id": "b-50d",
+        "name": "Watering Hole",
+        "name_reading": "うぉーたりんぐほーる",
+        "prefecture": "東京都",
+        "address": "東京都渋谷区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.16,
+          35.25
+        ]
+      },
+      "properties": {
+        "id": "b-51",
+        "name": "箱根ビール",
+        "name_reading": "はこねびーる",
+        "prefecture": "神奈川県",
+        "address": "神奈川県小田原市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "箱根の水を使ったピルスナーが定番。観光地でも人気。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.37,
+          35.44
+        ]
+      },
+      "properties": {
+        "id": "b-52",
+        "name": "さがみビール",
+        "name_reading": "さがみびーる",
+        "prefecture": "神奈川県",
+        "address": "神奈川県厚木市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "神奈川・相模原エリアの地ビール。地元食材を活かしたビールも。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55,
+          35.32
+        ]
+      },
+      "properties": {
+        "id": "b-53",
+        "name": "鎌倉ビール",
+        "name_reading": "かまくらびーる",
+        "prefecture": "神奈川県",
+        "address": "神奈川県鎌倉市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "湘南・鎌倉の醸造所。ビーチサイドの雰囲気が人気。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64,
+          35.45
+        ]
+      },
+      "properties": {
+        "id": "b-54",
+        "name": "横浜ビール",
+        "name_reading": "よこはまびーる",
+        "prefecture": "神奈川県",
+        "address": "神奈川県横浜市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "横浜発のクラフトビール。開港の街らしい多様なスタイルを醸造。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.41,
+          35.33
+        ]
+      },
+      "properties": {
+        "id": "b-55",
+        "name": "湘南ビール",
+        "name_reading": "しょうなんびーる",
+        "prefecture": "神奈川県",
+        "address": "神奈川県茅ヶ崎市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.35,
+          35.46
+        ]
+      },
+      "properties": {
+        "id": "b-56",
+        "name": "サンクトガーレン",
+        "name_reading": "さんくとがーれん",
+        "prefecture": "神奈川県",
+        "address": "神奈川県厚木市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53,
+          35.4
+        ]
+      },
+      "properties": {
+        "id": "b-57",
+        "name": "横浜ベイブルーイング",
+        "name_reading": "よこはまべい",
+        "prefecture": "神奈川県",
+        "address": "神奈川県横浜市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58,
+          35.3
+        ]
+      },
+      "properties": {
+        "id": "b-58",
+        "name": "ヨロッコビール",
+        "name_reading": "よろっこびーる",
+        "prefecture": "神奈川県",
+        "address": "神奈川県逗子市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.76,
+          35.5
+        ]
+      },
+      "properties": {
+        "id": "b-59",
+        "name": "富士桜高原ビール",
+        "name_reading": "ふじさくらこうげん",
+        "prefecture": "山梨県",
+        "address": "山梨県富士河口湖町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.43,
+          35.95
+        ]
+      },
+      "properties": {
+        "id": "b-60",
+        "name": "八ヶ岳タッチダウンビール",
+        "name_reading": "やつがたけてぃだうん",
+        "prefecture": "山梨県",
+        "address": "山梨県北杜市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.32,
+          35.86
+        ]
+      },
+      "properties": {
+        "id": "b-60b",
+        "name": "UCHU BREWING",
+        "name_reading": "うちゅーぶりゅーいんぐ",
+        "prefecture": "山梨県",
+        "address": "山梨県北杜市小淵沢",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.73,
+          34.71
+        ]
+      },
+      "properties": {
+        "id": "b-62",
+        "name": "浜松アクトビール",
+        "name_reading": "はままつあくと",
+        "prefecture": "静岡県",
+        "address": "静岡県浜松市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.94,
+          35.3
+        ]
+      },
+      "properties": {
+        "id": "b-63",
+        "name": "御殿場高原ビール",
+        "name_reading": "ごてんばこうげん",
+        "prefecture": "静岡県",
+        "address": "静岡県御殿場市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "富士山麓・御殿場の醸造所。ピルスナーを中心に、レストランでも提供。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.95,
+          35.1
+        ]
+      },
+      "properties": {
+        "id": "b-64",
+        "name": "風の谷のビール",
+        "name_reading": "かぜのたにのびーる",
+        "prefecture": "静岡県",
+        "address": "静岡県函南町",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "伊豆・函南の自然を活かした地ビール。パブも併設。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1,
+          34.92
+        ]
+      },
+      "properties": {
+        "id": "b-65",
+        "name": "伊豆高原ビール",
+        "name_reading": "いずこうげんびーる",
+        "prefecture": "静岡県",
+        "address": "静岡県伊東市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.96,
+          35.05
+        ]
+      },
+      "properties": {
+        "id": "b-66",
+        "name": "反射炉ビヤ",
+        "name_reading": "はんしゃろびあ",
+        "prefecture": "静岡県",
+        "address": "静岡県伊豆の国市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.86,
+          35.1
+        ]
+      },
+      "properties": {
+        "id": "b-67",
+        "name": "ベアードビール",
+        "name_reading": "べあーど",
+        "prefecture": "静岡県",
+        "address": "静岡県沼津市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.62,
+          35.22
+        ]
+      },
+      "properties": {
+        "id": "b-67b",
+        "name": "富士メイスビア",
+        "name_reading": "ふじめいすびあ",
+        "prefecture": "静岡県",
+        "address": "静岡県富士宮市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.95,
+          35.38
+        ]
+      },
+      "properties": {
+        "id": "b-68",
+        "name": "金しゃちビール",
+        "name_reading": "きんしゃち",
+        "prefecture": "愛知県",
+        "address": "愛知県犬山市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.91,
+          35.18
+        ]
+      },
+      "properties": {
+        "id": "b-69",
+        "name": "名古屋醸造",
+        "name_reading": "なごやじょうぞう",
+        "prefecture": "愛知県",
+        "address": "愛知県名古屋市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.71,
+          34.49
+        ]
+      },
+      "properties": {
+        "id": "b-70",
+        "name": "伊勢角谷麦酒",
+        "name_reading": "いせかどや",
+        "prefecture": "三重県",
+        "address": "三重県伊勢市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "伊勢神宮に近い老舗。地酒と地ビールの両方を醸造。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.71,
+          34.49
+        ]
+      },
+      "properties": {
+        "id": "b-71",
+        "name": "伊勢角屋ビール",
+        "name_reading": "いせかどやびーる",
+        "prefecture": "三重県",
+        "address": "三重県伊勢市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.76,
+          35.42
+        ]
+      },
+      "properties": {
+        "id": "b-71b",
+        "name": "岐阜県地ビール",
+        "name_reading": "ぎふけんじびーる",
+        "prefecture": "岐阜県",
+        "address": "岐阜県岐阜市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.65,
+          36.82
+        ]
+      },
+      "properties": {
+        "id": "b-73",
+        "name": "宇奈月ビール",
+        "name_reading": "うなづきびーる",
+        "prefecture": "富山県",
+        "address": "富山県黒部市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.91,
+          36.56
+        ]
+      },
+      "properties": {
+        "id": "b-74",
+        "name": "城端麦酒",
+        "name_reading": "じょうはなむぎびーる",
+        "prefecture": "富山県",
+        "address": "富山県南砺市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.63,
+          36.59
+        ]
+      },
+      "properties": {
+        "id": "b-75",
+        "name": "石川県地ビール",
+        "name_reading": "いしかわけんじびーる",
+        "prefecture": "石川県",
+        "address": "石川県金沢市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.22,
+          36.07
+        ]
+      },
+      "properties": {
+        "id": "b-76",
+        "name": "福井地ビール",
+        "name_reading": "ふくいじびーる",
+        "prefecture": "福井県",
+        "address": "福井県福井市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.87,
+          35
+        ]
+      },
+      "properties": {
+        "id": "b-78",
+        "name": "滋賀県地ビール",
+        "name_reading": "しがけんじびーる",
+        "prefecture": "滋賀県",
+        "address": "滋賀県大津市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77,
+          35.01
+        ]
+      },
+      "properties": {
+        "id": "b-79",
+        "name": "京都町家麦酒",
+        "name_reading": "きょうとまちや",
+        "prefecture": "京都府",
+        "address": "京都府京都市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "京の町家で醸造。クラフトビールと京料理の組み合わせが人気。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77,
+          34.94
+        ]
+      },
+      "properties": {
+        "id": "b-80",
+        "name": "京都麦酒",
+        "name_reading": "きょうとむぎびーる",
+        "prefecture": "京都府",
+        "address": "京都府京都市伏見区",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "伏見の酒蔵街にある醸造所。日本酒の町で育ったクラフトビール。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79,
+          35.03
+        ]
+      },
+      "properties": {
+        "id": "b-81",
+        "name": "一乗寺ブリュワリー",
+        "name_reading": "いちじょうじ",
+        "prefecture": "京都府",
+        "address": "京都府京都市左京区",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75,
+          35.03
+        ]
+      },
+      "properties": {
+        "id": "b-82",
+        "name": "西陣麦酒",
+        "name_reading": "にしじんむぎびーる",
+        "prefecture": "京都府",
+        "address": "京都府京都市上京区",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76,
+          35.03
+        ]
+      },
+      "properties": {
+        "id": "b-83",
+        "name": "ウッドミルブルワリー京都",
+        "name_reading": "うっどみるきょうと",
+        "prefecture": "京都府",
+        "address": "京都府京都市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76,
+          35.01
+        ]
+      },
+      "properties": {
+        "id": "b-84",
+        "name": "KIX BEER",
+        "name_reading": "きっくすびーる",
+        "prefecture": "京都府",
+        "address": "京都府京都市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.14,
+          35.63
+        ]
+      },
+      "properties": {
+        "id": "b-85",
+        "name": "丹後王国ブルワリー",
+        "name_reading": "たんごおうこく",
+        "prefecture": "京都府",
+        "address": "京都府京丹後市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77,
+          34.94
+        ]
+      },
+      "properties": {
+        "id": "b-86",
+        "name": "家守酒造",
+        "name_reading": "やもりしゅぞう",
+        "prefecture": "京都府",
+        "address": "京都府京都市伏見区",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76,
+          35.02
+        ]
+      },
+      "properties": {
+        "id": "b-86b",
+        "name": "月の輪酒造",
+        "name_reading": "つきのわしゅぞう",
+        "prefecture": "京都府",
+        "address": "京都府京都市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.62,
+          34.85
+        ]
+      },
+      "properties": {
+        "id": "b-88",
+        "name": "大阪國乃長ビール",
+        "name_reading": "おおさかくにのちょう",
+        "prefecture": "大阪府",
+        "address": "大阪府高槻市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.47,
+          34.82
+        ]
+      },
+      "properties": {
+        "id": "b-89",
+        "name": "箕面ビール",
+        "name_reading": "みのおびーる",
+        "prefecture": "大阪府",
+        "address": "大阪府箕面市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "箕面の名水を使った地ビール。箕面瀑布にちなんだ銘柄も。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.46,
+          34.67
+        ]
+      },
+      "properties": {
+        "id": "b-90",
+        "name": "ONE's BREWERY",
+        "name_reading": "わんず",
+        "prefecture": "大阪府",
+        "address": "大阪府大阪市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.52,
+          34.69
+        ]
+      },
+      "properties": {
+        "id": "b-91",
+        "name": "YAMATO Brewery",
+        "name_reading": "やまと",
+        "prefecture": "大阪府",
+        "address": "大阪府大阪市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49,
+          34.7
+        ]
+      },
+      "properties": {
+        "id": "b-92",
+        "name": "CRAFT BEER BASE",
+        "name_reading": "くらふとびーるべーす",
+        "prefecture": "大阪府",
+        "address": "大阪府大阪市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5,
+          34.67
+        ]
+      },
+      "properties": {
+        "id": "b-93",
+        "name": "道頓堀麦酒",
+        "name_reading": "どうとんぼりむぎびーる",
+        "prefecture": "大阪府",
+        "address": "大阪府大阪市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49,
+          34.65
+        ]
+      },
+      "properties": {
+        "id": "b-94",
+        "name": "Derailleur Brew Works",
+        "name_reading": "でらいゅーる",
+        "prefecture": "大阪府",
+        "address": "大阪府大阪市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.48,
+          34.57
+        ]
+      },
+      "properties": {
+        "id": "b-95",
+        "name": "キューガモンブルワリー",
+        "name_reading": "きゅーがもん",
+        "prefecture": "大阪府",
+        "address": "大阪府堺市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.46,
+          34.57
+        ]
+      },
+      "properties": {
+        "id": "b-95b",
+        "name": "堺ビール",
+        "name_reading": "さかいびーる",
+        "prefecture": "大阪府",
+        "address": "大阪府堺市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.42,
+          34.78
+        ]
+      },
+      "properties": {
+        "id": "b-96",
+        "name": "小西ビール",
+        "name_reading": "こにしびーる",
+        "prefecture": "兵庫県",
+        "address": "兵庫県伊丹市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.22,
+          34.78
+        ]
+      },
+      "properties": {
+        "id": "b-97",
+        "name": "六甲ビール",
+        "name_reading": "ろっこうびーる",
+        "prefecture": "兵庫県",
+        "address": "兵庫県神戸市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "六甲の水で醸造。神戸らしいスタイリッシュなクラフトビール。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.99,
+          34.65
+        ]
+      },
+      "properties": {
+        "id": "b-98",
+        "name": "子午線ビール",
+        "name_reading": "しごせんびーる",
+        "prefecture": "兵庫県",
+        "address": "兵庫県明石市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.19,
+          34.69
+        ]
+      },
+      "properties": {
+        "id": "b-99",
+        "name": "神戸ビール",
+        "name_reading": "こうべびーる",
+        "prefecture": "兵庫県",
+        "address": "兵庫県神戸市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "神戸発のクラフトビール。港町らしい多様なビールを展開。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2,
+          34.7
+        ]
+      },
+      "properties": {
+        "id": "b-99b",
+        "name": "神戸クラフト",
+        "name_reading": "こうべくらふと",
+        "prefecture": "兵庫県",
+        "address": "兵庫県神戸市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.12,
+          34.52
+        ]
+      },
+      "properties": {
+        "id": "b-100",
+        "name": "曽爾高原ビール",
+        "name_reading": "そにこうげん",
+        "prefecture": "奈良県",
+        "address": "奈良県曽爾村",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83,
+          34.69
+        ]
+      },
+      "properties": {
+        "id": "b-101",
+        "name": "ならビール",
+        "name_reading": "ならびーる",
+        "prefecture": "奈良県",
+        "address": "奈良県奈良市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.98,
+          34.42
+        ]
+      },
+      "properties": {
+        "id": "b-102",
+        "name": "グットウルフ麦酒",
+        "name_reading": "ぐっとうるふ",
+        "prefecture": "奈良県",
+        "address": "奈良県東吉野村",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.38,
+          33.69
+        ]
+      },
+      "properties": {
+        "id": "b-103",
+        "name": "ナギサビール",
+        "name_reading": "なぎさびーる",
+        "prefecture": "和歌山県",
+        "address": "和歌山県白浜町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.39,
+          35.39
+        ]
+      },
+      "properties": {
+        "id": "b-105",
+        "name": "大山Gビール",
+        "name_reading": "だいせんじーびーる",
+        "prefecture": "鳥取県",
+        "address": "鳥取県伯耆町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.23,
+          35.26
+        ]
+      },
+      "properties": {
+        "id": "b-106",
+        "name": "タルマーリ",
+        "name_reading": "たるまーりー",
+        "prefecture": "鳥取県",
+        "address": "鳥取県智頭町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.24,
+          35.5
+        ]
+      },
+      "properties": {
+        "id": "b-107",
+        "name": "AKARI BREWING",
+        "name_reading": "あかり",
+        "prefecture": "鳥取県",
+        "address": "鳥取県鳥取市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.33,
+          35.43
+        ]
+      },
+      "properties": {
+        "id": "b-108",
+        "name": "JAP BREWERY",
+        "name_reading": "じゃっぷ",
+        "prefecture": "鳥取県",
+        "address": "鳥取県米子市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.82,
+          35.43
+        ]
+      },
+      "properties": {
+        "id": "b-109",
+        "name": "BREW LAB KURAYOSHI",
+        "name_reading": "ぶるーらぼくらよし",
+        "prefecture": "鳥取県",
+        "address": "鳥取県倉吉市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.05,
+          35.47
+        ]
+      },
+      "properties": {
+        "id": "b-110",
+        "name": "松江地ビール ビアへるん",
+        "name_reading": "まつえじびーる",
+        "prefecture": "島根県",
+        "address": "島根県松江市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.22,
+          35.01
+        ]
+      },
+      "properties": {
+        "id": "b-111",
+        "name": "石見麦酒",
+        "name_reading": "いわみむぎびーる",
+        "prefecture": "島根県",
+        "address": "島根県江津市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.93,
+          34.66
+        ]
+      },
+      "properties": {
+        "id": "b-112",
+        "name": "独歩ビール",
+        "name_reading": "どっぽびーる",
+        "prefecture": "岡山県",
+        "address": "岡山県岡山市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.99,
+          35.07
+        ]
+      },
+      "properties": {
+        "id": "b-113",
+        "name": "作州津山ビール",
+        "name_reading": "さくしゅうつやま",
+        "prefecture": "岡山県",
+        "address": "岡山県津山市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.71,
+          34.62
+        ]
+      },
+      "properties": {
+        "id": "b-114",
+        "name": "真備竹林麦酒",
+        "name_reading": "まびちくりん",
+        "prefecture": "岡山県",
+        "address": "岡山県倉敷市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.93,
+          34.66
+        ]
+      },
+      "properties": {
+        "id": "b-115",
+        "name": "吉備土手下麦酒",
+        "name_reading": "きびどてした",
+        "prefecture": "岡山県",
+        "address": "岡山県岡山市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.46,
+          34.4
+        ]
+      },
+      "properties": {
+        "id": "b-116",
+        "name": "ヒロシマネイバリーブリューイング",
+        "name_reading": "ひろしまねいばりー",
+        "prefecture": "広島県",
+        "address": "広島県広島市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.46,
+          34.39
+        ]
+      },
+      "properties": {
+        "id": "b-117",
+        "name": "ヱビスビール",
+        "name_reading": "えびす",
+        "prefecture": "広島県",
+        "address": "広島県広島市",
+        "type": "regional",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.47,
+          34.19
+        ]
+      },
+      "properties": {
+        "id": "b-118",
+        "name": "山口地ビール",
+        "name_reading": "やまぐちじびーる",
+        "prefecture": "山口県",
+        "address": "山口県山口市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.24,
+          34.48
+        ]
+      },
+      "properties": {
+        "id": "b-120",
+        "name": "まめまめびーる",
+        "name_reading": "まめまめびーる",
+        "prefecture": "香川県",
+        "address": "香川県小豆島町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.56,
+          33.98
+        ]
+      },
+      "properties": {
+        "id": "b-121",
+        "name": "梅錦ビール",
+        "name_reading": "うめにしきびーる",
+        "prefecture": "愛媛県",
+        "address": "愛媛県四国中央市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.79,
+          33.85
+        ]
+      },
+      "properties": {
+        "id": "b-122",
+        "name": "道後ビール",
+        "name_reading": "どうごびーる",
+        "prefecture": "愛媛県",
+        "address": "愛媛県松山市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7,
+          33.67
+        ]
+      },
+      "properties": {
+        "id": "b-123",
+        "name": "TOSACO",
+        "name_reading": "とさこ",
+        "prefecture": "高知県",
+        "address": "高知県香美市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.56,
+          34.07
+        ]
+      },
+      "properties": {
+        "id": "b-124",
+        "name": "徳島クラフト",
+        "name_reading": "とくしまくらふと",
+        "prefecture": "徳島県",
+        "address": "徳島県徳島市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.96,
+          33.95
+        ]
+      },
+      "properties": {
+        "id": "b-126",
+        "name": "門司港レトロビール",
+        "name_reading": "もじこうれとろ",
+        "prefecture": "福岡県",
+        "address": "福岡県北九州市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4,
+          33.59
+        ]
+      },
+      "properties": {
+        "id": "b-127",
+        "name": "ホテルオークラ福岡",
+        "name_reading": "おーくらふくおか",
+        "prefecture": "福岡県",
+        "address": "福岡県福岡市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.35,
+          33.59
+        ]
+      },
+      "properties": {
+        "id": "b-128",
+        "name": "博多杉能舎麦酒",
+        "name_reading": "はかたすぎのや",
+        "prefecture": "福岡県",
+        "address": "福岡県福岡市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4,
+          33.59
+        ]
+      },
+      "properties": {
+        "id": "b-129",
+        "name": "プレデター醸造所",
+        "name_reading": "ぷれでたー",
+        "prefecture": "福岡県",
+        "address": "福岡県福岡市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.41,
+          33.59
+        ]
+      },
+      "properties": {
+        "id": "b-129b",
+        "name": "福岡クラフト",
+        "name_reading": "ふくおかくらふと",
+        "prefecture": "福岡県",
+        "address": "福岡県福岡市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.52,
+          33.32
+        ]
+      },
+      "properties": {
+        "id": "b-129c",
+        "name": "久留米クラフト",
+        "name_reading": "くるめくらふと",
+        "prefecture": "福岡県",
+        "address": "福岡県久留米市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3,
+          33.25
+        ]
+      },
+      "properties": {
+        "id": "b-130",
+        "name": "佐賀県地ビール",
+        "name_reading": "さがけんじびーる",
+        "prefecture": "佐賀県",
+        "address": "佐賀県佐賀市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.88,
+          32.75
+        ]
+      },
+      "properties": {
+        "id": "b-131",
+        "name": "長崎クラフト",
+        "name_reading": "ながさきくらふと",
+        "prefecture": "長崎県",
+        "address": "長崎県長崎市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7,
+          32.79
+        ]
+      },
+      "properties": {
+        "id": "b-132",
+        "name": "熊本県地ビール",
+        "name_reading": "くまもとけんじびーる",
+        "prefecture": "熊本県",
+        "address": "熊本県熊本市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.35,
+          33.26
+        ]
+      },
+      "properties": {
+        "id": "b-133",
+        "name": "ゆふいんビール",
+        "name_reading": "ゆふいんびーる",
+        "prefecture": "大分県",
+        "address": "大分県由布市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "由布院の温泉街で醸造。癒しの地で楽しめる地ビール。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.15,
+          33.1
+        ]
+      },
+      "properties": {
+        "id": "b-134",
+        "name": "久住高原地ビール",
+        "name_reading": "くじゅうこうげん",
+        "prefecture": "大分県",
+        "address": "大分県竹田市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.66,
+          32.58
+        ]
+      },
+      "properties": {
+        "id": "b-135",
+        "name": "ひでじビール",
+        "name_reading": "ひでじびーる",
+        "prefecture": "宮崎県",
+        "address": "宮崎県延岡市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.25,
+          32.02
+        ]
+      },
+      "properties": {
+        "id": "b-136",
+        "name": "雲海麦酒醸造所",
+        "name_reading": "うんかいむぎびーる",
+        "prefecture": "宮崎県",
+        "address": "宮崎県綾町",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.1,
+          31.72
+        ]
+      },
+      "properties": {
+        "id": "b-137",
+        "name": "霧島ビール",
+        "name_reading": "きりしまびーる",
+        "prefecture": "宮崎県",
+        "address": "宮崎県都城市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3,
+          31.27
+        ]
+      },
+      "properties": {
+        "id": "b-138",
+        "name": "薩摩のビール",
+        "name_reading": "さつまのびーる",
+        "prefecture": "鹿児島県",
+        "address": "鹿児島県枕崎市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.56,
+          31.6
+        ]
+      },
+      "properties": {
+        "id": "b-139",
+        "name": "鹿児島クラフト",
+        "name_reading": "かごしまくらふと",
+        "prefecture": "鹿児島県",
+        "address": "鹿児島県鹿児島市",
+        "type": "microbrewery",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.98,
+          26.59
+        ]
+      },
+      "properties": {
+        "id": "b-140",
+        "name": "ヘリオスクラフトビール",
+        "name_reading": "へりおす",
+        "prefecture": "沖縄県",
+        "address": "沖縄県名護市",
+        "type": "regional",
+        "source": "jba",
+        "characteristics": "沖縄・名護の醸造所。南国らしいフルーティなビールが人気。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.16,
+          24.34
+        ]
+      },
+      "properties": {
+        "id": "b-141",
+        "name": "石垣島ビール",
+        "name_reading": "いしがきじまびーる",
+        "prefecture": "沖縄県",
+        "address": "沖縄県石垣市",
+        "type": "microbrewery",
+        "source": "jba",
+        "characteristics": "石垣島の水と原料を活かした島ビール。リゾートでも人気。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.68,
+          26.21
+        ]
+      },
+      "properties": {
+        "id": "b-142",
+        "name": "オリオン醸造",
+        "name_reading": "おりおん",
+        "prefecture": "沖縄県",
+        "address": "沖縄県那覇市",
+        "type": "regional",
+        "source": "jba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8,
+          26.33
+        ]
+      },
+      "properties": {
+        "id": "b-142b",
+        "name": "コザクラフト",
+        "name_reading": "こざくらふと",
+        "prefecture": "沖縄県",
+        "address": "沖縄県沖縄市",
+        "type": "brewpub",
+        "source": "jba"
+      }
+    }
+  ]
+}

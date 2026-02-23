@@ -1,51 +1,54 @@
 // ============================================
-// My Sushi - Theme Configuration
-// Modern Japanese-inspired palette
+// My Macha (抹茶) - Theme Configuration
+// Matcha / tea inspired palette
 // ============================================
 
-export const SUSHI_COLORS = {
-  // Primary - 藍色 (Indigo) - 落ち着いた日本的な色
-  primary: '#3b5998',
-  primaryLight: '#5a7fc2',
-  primaryDark: '#2d4373',
+export const BEER_COLORS = {
+  // Primary - 抹茶色 (Matcha green)
+  primary: '#2d5016',
+  primaryLight: '#4a7c23',
+  primaryDark: '#1e3d0f',
 
   // Accent colors
-  accent: '#e85d75',          // 桜色 (Sakura pink) - 行きたい
-  accentSecondary: '#2d9d78', // 若竹色 (Bamboo green) - 行った
-  accentTertiary: '#f0a500',  // 山吹色 (Yamabuki gold)
-  
-  // Backgrounds - クリーンで落ち着いた白
-  background: '#f8f9fa',
+  accent: '#6b8e4e',          // 行きたい (落ち着いた緑)
+  accentSecondary: '#2d5016',  // ごちそうさまでした (濃い抹茶)
+  accentTertiary: '#5a8f3a',   // アクセント緑
+
+  // Backgrounds
+  background: '#f5f7f2',
   backgroundElevated: '#ffffff',
   backgroundCard: '#ffffff',
 
-  // Surface - ほんのり暖かみ
-  surface: '#f1f3f4',
-  surfaceLight: '#f8f9fa',
-  surfaceDark: '#e8eaed',
+  // Surface
+  surface: '#eef2e8',
+  surfaceLight: '#f5f7f2',
+  surfaceDark: '#dfe6d8',
 
-  // Text - しっかりしたコントラスト
-  textPrimary: '#202124',
-  textSecondary: '#5f6368',
-  textMuted: '#9aa0a6',
+  // Text
+  textPrimary: '#1c1917',
+  textSecondary: '#4a5d3a',
+  textMuted: '#6b7c5e',
 
   // Semantic
-  success: '#2d9d78',
-  warning: '#f0a500',
-  error: '#d93025',
+  success: '#2d5016',
+  warning: '#8b6914',
+  error: '#b91c1c',
 
   // Map
-  mapOverlay: 'rgba(248, 249, 250, 0.95)',
-  mapOverlayLight: 'rgba(248, 249, 250, 0.80)',
+  mapOverlay: 'rgba(245, 247, 242, 0.95)',
+  mapOverlayLight: 'rgba(245, 247, 242, 0.80)',
 
   // Pins
-  sushiPin: '#3b5998',
-  cluster: '#e85d75',
+  beerPin: '#2d5016',
+  cluster: '#4a7c23',
 
   // Borders
   border: 'rgba(0, 0, 0, 0.08)',
   borderLight: 'rgba(0, 0, 0, 0.04)',
 };
+
+// Alias for components that reference SUSHI_COLORS
+export const SUSHI_COLORS = BEER_COLORS;
 
 export const TOKYO_CENTER = {
   latitude: 35.6762,

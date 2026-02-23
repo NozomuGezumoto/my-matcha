@@ -1,0 +1,25 @@
+---
+description: Expo/React Native で携帯から繋がらないときの原因と対処（LAN IP と 127.0.0.1）
+alwaysApply: true
+---
+
+# Expo / React Native でスマホが「Could not connect to the server」になる原因
+
+## 原因
+
+- Expo は起動時に **`lan-network`** で PC の LAN IP を取得し、その IP を QR の URL（`exp://〇〇:8081`）に使う。
+- **取得に失敗すると `127.0.0.1` にフォールバックする**（`@expo/cli` の `utils/ip.js`）。
+- 仮想 NIC（VirtualBox / Docker / WSL / 有線と Wi‑Fiの両方など）があると失敗しやすく、QR が **`exp://127.0.0.1:8081`** になる。
+- スマホから `127.0.0.1` に繋いでも「スマホ自身」の 8081 を見るだけなので **PC の Metro に繋がらない**。
+
+## 対処（どのプロジェクトでも同じ）
+
+1. **起動前に LAN IP を確定し、`REACT_NATIVE_PACKAGER_HOSTNAME` に渡してから起動する。**
+   - 例: Node の `os.networkInterfaces()` で 192.168.x.x / 10.x.x.x を取得（ループバック・仮想 NIC は除外）し、`process.env.REACT_NATIVE_PACKAGER_HOSTNAME = ip` を設定してから `expo start --lan` を実行する。
+2. **`npm start` を「LAN IP を取得してから Expo を起動するスクリプト」にする。**
+   - 例: `scripts/start-with-lan.js` で IP 取得 → env にセット → `npx expo start --lan` を spawn。`package.json` の `"start": "node scripts/start-with-lan.js"` で固定。
+
+## 覚えておくこと
+
+- **「QR が 127.0.0.1 になる」= Expo の LAN IP 取得失敗。** 環境依存なので、取得ロジックを自前で用意して `REACT_NATIVE_PACKAGER_HOSTNAME` で渡すと確実。
+- 新規 Expo プロジェクトで「携帯でテストしたい」場合は、最初から上記の start スクリプトを入れておくと同じミスを防げる。

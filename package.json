@@ -1,13 +1,16 @@
 {
-  "name": "my-sushi",
+  "name": "my-macha",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
-    "start": "expo start",
+    "start": "node scripts/start-with-lan.js",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "tunnel": "expo start --tunnel"
+    "tunnel": "expo start --tunnel",
+    "start:lan": "expo start --lan",
+    "web:clear": "expo start --web --clear",
+    "test": "tsc --noEmit"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
@@ -15,7 +18,7 @@
     "@react-native-async-storage/async-storage": "2.2.0",
     "@react-navigation/bottom-tabs": "^7.4.0",
     "@react-navigation/native": "^7.1.8",
-    "expo": "~54.0.31",
+    "expo": "~54.0.33",
     "expo-constants": "~18.0.13",
     "expo-image-picker": "^17.0.10",
     "expo-linking": "~8.0.11",
@@ -36,6 +39,7 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
+    "patch-package": "^8.0.1",
     "typescript": "~5.9.2"
   },
   "private": true

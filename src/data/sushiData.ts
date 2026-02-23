@@ -3,8 +3,7 @@
 // Loads and transforms GeoJSON data for display
 // ============================================
 
-import { SushiGeoJSON, SushiFeature, SushiPin } from '../types';
-import { CustomShop } from '../store/useStore';
+import { SushiGeoJSON, SushiFeature, SushiPin, CustomShop } from '../types';
 
 // Import the Japan-wide sushi data
 // Note: In production, this would be loaded from an API or async import
