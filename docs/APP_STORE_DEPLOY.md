@@ -134,7 +134,9 @@ eas submit --platform ios --profile production --non-interactive
    - **スクリーンショット**（6.7", 6.5", 5.5" など必須サイズ）
    - **説明文**
    - **キーワード**
-   - **プライバシーポリシー URL**（必須）
+   - **プライバシーポリシー URL**（必須）  
+     - プライバシーポリシーは `docs/PRIVACY_POLICY.md` および `docs/privacy-policy.html` に用意済み
+     - GitHub Pages を有効にして `docs/privacy-policy.html` を公開するか、別の方法で URL を取得してください（例: `https://nozomugezumoto.github.io/my-matcha/privacy-policy.html`）
    - **年齢制限・カテゴリ** など
 3. **審査に提出** をクリック
 
