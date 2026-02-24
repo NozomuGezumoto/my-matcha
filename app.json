@@ -2,7 +2,7 @@
   "expo": {
     "name": "My Macha",
     "slug": "my-macha",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/matcha-icon.png",
     "scheme": "mymacha",
@@ -18,8 +18,10 @@
       "bundleIdentifier": "com.mymacha.app",
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "地図を表示するために必要です。",
-        "NSPhotoLibraryUsageDescription": "写真を選択・共有するためにフォトライブラリへのアクセスが必要です。"
-      }
+        "NSPhotoLibraryUsageDescription": "写真を選択・共有するためにフォトライブラリへのアクセスが必要です。",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "buildNumber": "3"
     },
     "android": {
       "adaptiveIcon": {
@@ -31,7 +33,10 @@
         "googleMaps": {
           "apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
         }
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "bundler": "metro",
@@ -49,6 +54,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a0bdf0eb-90a4-4a86-a7ec-2e0f427aea3b"
+      }
     }
   }
 }
